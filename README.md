@@ -1,22 +1,7 @@
-# SuperTux
+# SuperTux Vaesea Edition
+my version of supertux 0.7 based on supertux 0.7 but with supertux 0.6.3 sprites
 
-[![Windows](https://github.com/SuperTux/supertux/actions/workflows/windows.yml/badge.svg?branch=master)](https://github.com/SuperTux/supertux/actions/workflows/windows.yml?branch=master)
-[![MacOS](https://github.com/SuperTux/supertux/actions/workflows/macos.yml/badge.svg?branch=master)](https://github.com/SuperTux/supertux/actions/workflows/macos.yml?branch=master)
-[![GNU/Linux](https://github.com/SuperTux/supertux/actions/workflows/gnulinux.yml/badge.svg?branch=master)](https://github.com/SuperTux/supertux/actions/workflows/gnulinux.yml?branch=master)
-[![Android](https://github.com/SuperTux/supertux/actions/workflows/android.yml/badge.svg?branch=master)](https://github.com/SuperTux/supertux/actions/workflows/android.yml?branch=master)
-[![FreeBSD](https://github.com/SuperTux/supertux/actions/workflows/freebsd.yml/badge.svg?branch=master)](https://github.com/SuperTux/supertux/actions/workflows/freebsd.yml?branch=master)
-[![WebAssembly](https://github.com/SuperTux/supertux/actions/workflows/wasm.yml/badge.svg?branch=master)](https://github.com/SuperTux/supertux/actions/workflows/wasm.yml?branch=master)
-[![Github All Releases](https://img.shields.io/github/downloads/supertux/supertux/total.svg?maxAge=2592000)](https://github.com/SuperTux/supertux)
-
-SuperTux is a jump'n'run game with strong inspiration from the
-Super Mario Bros. games for the various Nintendo platforms.
-
-Run and jump through multiple worlds, fighting off enemies by jumping
-on them, bumping them from below or tossing objects at them, grabbing
-power-ups and other stuff on the way.
-
-![Screenshot](https://www.supertux.org/images/0_7_0/github_preview.png)
-
+not meant to be disrespectful! i really like supertux 0.7.
 
 ## Story: Penny gets captured!
 
@@ -37,18 +22,11 @@ Tux looks and sees Nolok's fortress in the distance. Determined to
 save his beloved Penny, he begins his journey.
 
 ## Installation
-
-For major platforms, stable releases are built and available for download from
-[supertux.org](https://www.supertux.org/download.html) or alternatively directly
-from [GitHub](https://github.com/SuperTux/supertux/releases). You should be able
-to install these using default tools provided by your platform. On macOS, when
-Gatekeeper is enabled (default) it will refuse to open SuperTux. This is due to
-the lack of a signature on the application. If you wish to open SuperTux anyway
-without disabling the Gatekeeper feature entirely, you can open the application
-from the context menu (control click on the icon). macOS will then remember your
-choice the next time.
+what about... playing supertux 0.7 instead for now?
 
 ## Documentation
+
+only readme has been changed for now
 
 Important documentation for SuperTux is contained in multiple files.
 Please see them:
@@ -81,17 +59,4 @@ arrow keys or the mouse.
 
 In case you need help, feel free to reach out using the following means:
 
-* **IRC:** [#supertux](ircs://irc.libera.chat/#supertux) on
-  [Libera Chat](https://libera.chat) hosts most of the discussions between
-  developers. Also, real-time support can be provided here. If you don't know
-  how to use an IRC client, you access the channel using a web-based
-  [client](https://kiwiirc.com/nextclient/irc.libera.chat:+6697/?nick=Guest?#supertux).
-  Please stay around after asking questions, otherwise you will be disconnected
-  and might miss potential answers.
-* **[Forum](https://groups.f-hub.org/supertux):** The SuperTux
-  community is also active on the forum, the discussions range from feature
-  proposals to support questions. In particular, most community-contributed
-  add-ons are published there, so this is worth checking.
-* **Social Media:** Mostly on [Twitter](https://twitter.com/supertux_team) at
-  the moment.
-* **Discord:** Also, you can join our [Discord server](https://discord.com/invite/AcvtHWz) to get in touch with us.
+just kidding :33333333333333333
