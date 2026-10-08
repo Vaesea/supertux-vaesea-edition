@@ -1,2 +1,2 @@
-# PepperTux Future
-PepperTux-Mod-New but updated to the latest (at the time of this repository being made) SuperTux commit. Does NOT replace PepperTux Legacy, and it won't be worked on at the same time as it, even though I do actually want to.
+# SuperTux Vaesea Edition
+my own "updated supertux 0.6.3!!!!" project, not meant to be disrespectful to supertux team as i really like supertux 0.7 (except the cave patrol level. please make that level be actually fun!)
